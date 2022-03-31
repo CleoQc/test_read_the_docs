@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is just a test.
+   This project is just a test. Won't last long.
 
 Contents
 --------
